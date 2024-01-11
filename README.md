@@ -28,7 +28,7 @@
   - [이선재](https://github.com/thetjswo)
   - [한현종](https://github.com/hjhan1201)
 
-- [프로젝트 대시보드](https://www.notion.so/gabesoon/DL_Thon-Jellyfish-465fe4892d90436b9a1ef64ed3991895?pvs=4)
+- [프로젝트 대시보드 구경가기](https://www.notion.so/gabesoon/DL_Thon-Jellyfish-465fe4892d90436b9a1ef64ed3991895?pvs=4)
 ---
 
 ### 평가항목
