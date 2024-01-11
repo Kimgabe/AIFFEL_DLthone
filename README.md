@@ -14,7 +14,7 @@
 1. [CNN모델링](https://github.com/Kimgabe/AIFFEL_DLthone/tree/main/CNN_Model)
    - 설명
      - 데이터셋에 대한 이해 및 모델링, 성능향상을 위한 튜닝의 1 circle에 대한 이해도를 높이기 위해 각자 CNN모델을 생성하고 최적화 하는 작업 수행(1/10)
-     - 3명이 각각 CNN이라는 같은 아키텍처의 모델에 서로 다른 모델 구조를 구성해 버전별로 최적화룰 수행
+     - 3명이 각각 CNN이라는 같은 아키텍처의 모델에 서로 다른 모델 구조를 구성해 버전별로 최적화를 수행
 
 2. [ConvMixer 1차시도](https://github.com/Kimgabe/AIFFEL_DLthone/blob/main/ConvMixer_Model/%5BSeonjae%20Lee%5D%20Jellyfish_ConvMixer_Base_Model_data_extention.ipynb)
    - 설명
