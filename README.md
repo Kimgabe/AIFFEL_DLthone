@@ -4,8 +4,7 @@
 - Kaggle의 [Jellyfish 데이터셋](https://www.kaggle.com/datasets/anshtanwar/jellyfish-types) 을 사용해서 다중 클래스 분류기 만들기
 ---
 # 📌 작업순서에 따른 노트북 읽는 순서 안내
-![process.png](![image](https://github.com/Kimgabe/AIFFEL_DLthone/assets/74717033/ba6dd4ef-2961-4c89-bf4b-d10e922fa4bb)
-)
+![image](https://github.com/Kimgabe/AIFFEL_DLthone/assets/74717033/ba6dd4ef-2961-4c89-bf4b-d10e922fa4bb)
 > 💡 이번 DLthone에서 우리팀의 목표는 소규모의 데이터셋으로도 빠르고 우수한 성능을 구현할 수 있는 **Transfer Learning 모델의 성능을 직접 구축한 모델로 최대한 따라잡는 것이었습니다.**
 > 이름 감안하여 프로젝트 수행과정을 살펴봐 주시면 감사드리겠습니다 😀
 
