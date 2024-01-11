@@ -2,6 +2,7 @@
 - 지난 10월부터 아이펠에서 공부한 시간 약 1859시간!
 - 그동안 배운내용을 바탕으로 진행하는 첫 팀프로젝트겸 헤커톤입니다.
 - Kaggle의 [Jellyfish 데이터셋](https://www.kaggle.com/datasets/anshtanwar/jellyfish-types) 을 사용해서 다중 클래스 분류기 만들기
+- [프로젝트 대시보드 구경가기](https://www.notion.so/gabesoon/DL_Thon-Jellyfish-465fe4892d90436b9a1ef64ed3991895?pvs=4)
 ---
 # 📌 작업순서에 따른 노트북 읽는 순서 안내
 ![process](https://github.com/Kimgabe/AIFFEL_DLthone/assets/74717033/93205692-a703-4838-9ef4-1c3e0eb57f0f)
@@ -89,8 +90,6 @@
 - 팀원
   - [이선재](https://github.com/thetjswo)
   - [한현종](https://github.com/hjhan1201)
-
-- [프로젝트 대시보드 구경가기](https://www.notion.so/gabesoon/DL_Thon-Jellyfish-465fe4892d90436b9a1ef64ed3991895?pvs=4)
 ---
 
 ### 평가항목
