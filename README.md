@@ -1,9 +1,36 @@
 # AIFFEL_DLthone
 - 지난 10월부터 아이펠에서 공부한 시간 약 1859시간!
 - 그동안 배운내용을 바탕으로 진행하는 첫 팀프로젝트겸 헤커톤입니다.
-- Kaggle의 [Jellyfish 데이터셋](https://www.kaggle.com/datasets/anshtanwar/jellyfish-types) 을 사용해서 다중 클래스 분류기 만들기
+- Kaggle의 [Jellyfish 데이터셋](https://www.kaggle.com/datasets/anshtanwar/jellyfish-types) 을 사용해서 다중 클래스 분류기 만들기에 도전합니다.
 - [프로젝트 대시보드 구경가기](https://www.notion.so/gabesoon/DL_Thon-Jellyfish-465fe4892d90436b9a1ef64ed3991895?pvs=4)
 ---
+
+## 일정
+### Day 01 / 01.10(수)
+
+- 주제 공개 및 가이드라인 안내
+- **팀 빌딩**
+- 팀장 선정
+- DLthon 진행
+
+### Day 02 / 01.11(목)
+
+- DLthon 진행
+
+### Day 03 / 01.12(금)
+
+- 오전 10:00까지 제출
+- 발표
+- 회고
+---
+## 팀원 소개
+- 팀장 : [김승순](https://github.com/Kimgabe/) 
+- 팀원
+  - [이선재](https://github.com/thetjswo)
+  - [한현종](https://github.com/hjhan1201)
+---
+
+
 # 📌 작업순서에 따른 노트북 읽는 순서 안내
 ![process](https://github.com/Kimgabe/AIFFEL_DLthone/assets/74717033/93205692-a703-4838-9ef4-1c3e0eb57f0f)
 > 💡 이번 DLthone에서 우리팀의 목표는 소규모의 데이터셋으로도 빠르고 우수한 성능을 구현할 수 있는 **Transfer Learning 모델의 성능을 직접 구축한 모델로 최대한 따라잡는 것이었습니다.**
@@ -66,30 +93,6 @@
       - 목표로 했던 사전학습 모델들을 직접 구현하여 직접 구축한 모델들과의 성능을 비교 평가
       - 이 과정의 목표는 전이학습 모델을 구현하는 과정을 직접 실행해보고 활용하는 방법을 학습하는 것이었음
           
-
-## 일정
-### Day 01 / 01.10(수)
-
-- 주제 공개 및 가이드라인 안내
-- **팀 빌딩**
-- 팀장 선정
-- DLthon 진행
-
-### Day 02 / 01.11(목)
-
-- DLthon 진행
-
-### Day 03 / 01.12(금)
-
-- 오전 10:00까지 제출
-- 발표
-- 회고
----
-## 팀원 소개
-- 팀장 : [김승순](https://github.com/Kimgabe/) 
-- 팀원
-  - [이선재](https://github.com/thetjswo)
-  - [한현종](https://github.com/hjhan1201)
 ---
 
 ### 평가항목
