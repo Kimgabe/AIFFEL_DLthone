@@ -57,7 +57,8 @@
 ![process](https://github.com/Kimgabe/AIFFEL_DLthone/assets/74717033/93205692-a703-4838-9ef4-1c3e0eb57f0f)
 
 > 💡 이번 DLthone에서 우리팀의 목표
-- 소규모의 데이터셋으로도 빠르고 우수한 성능을 구현할 수 있는 <span style="color:green; font-weight:bold;">Transfer Learning 모델의 성능을 직접 구축한 모델로 최대한 따라잡는 것이었습니다.</span>
+- 팀의 목표는 소규모의 데이터셋으로도 빠르고 우수한 성능을 구현할 수 있는 <span style="color:green; font-weight:bold;">Transfer Learning 모델이 많으니, 이를 직접 구축한 모델로 최대한 비슷한 성능을 내도록 해보자는 것이었습니다.</span>
+- 이 과정 자체에서 다양한 방법을 찾아보고 시행착오를 겪으면서 모델링에 대한 지식을 성장시킬 수 있으리라 생각했기 때문입니다.
 - 그러니 모델의 최종 성능 보다는 프로젝트 수행과정을 살펴봐 주시면 감사드리겠습니다 😀
 
 ---
